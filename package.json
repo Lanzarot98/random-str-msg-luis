@@ -1,0 +1,23 @@
+{
+  "name": "random-str-msg-luis",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "bin": {
+    "random-str-msg-luis": "bin/global.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lanzarot98/random-str-msg-luis.git"
+  },
+  "keywords": [],
+  "author": "Luis Miguel Rojas Franco <luis-389@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lanzarot98/random-str-msg-luis/issues"
+  },
+  "homepage": "https://github.com/Lanzarot98/random-str-msg-luis#readme"
+}
